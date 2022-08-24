@@ -1,4 +1,5 @@
 # Analysis-of-TMDB-Movies-Dataset
+(This project was done as a part of *Data Analyst Nanodegree* offered by Udacity)
 
 ### Project Overview
 In this project, we will analyze the TMDB movies dataset found from Kaggle which contains information about 10,000 movies collected from The Movie Database, including user ratings and revenue.
