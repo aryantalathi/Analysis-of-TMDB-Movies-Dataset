@@ -1,5 +1,6 @@
 # Analysis-of-TMDB-Movies-Dataset
 
+## Project Overview
 In this project, we will analyze the TMDB movies dataset found from Kaggle which contains information about 10,000 movies collected from The Movie Database, including user ratings and revenue.
 We will then go through the exploratory data analysis process and then communicate our findings about it.
 We will use the Python libraries `NumPy`, `pandas`, `Matplotlib` and `seaborn` to make your analysis easier.
